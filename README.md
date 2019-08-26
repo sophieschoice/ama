@@ -1,5 +1,4 @@
-# ama
-Ask Me Anything
+# Ask Me Anything
 
 Hi, I’m Sophie. Use this repository to ask me anything.
 
